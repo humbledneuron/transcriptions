@@ -1,6 +1,10 @@
 # Real-Time Speech Recognition and Subtitling Tool
 This project extracts audio from a video, recognizes speech using Vosk, and overlays the transcriptions onto the video. It also detects faces in the video to align subtitles close to face positions and handles both English and Japanese text overlays.
 
+If this software is useful to you, please consider subscribing to my Youtube Channel to help support this and other open-source projects: https://www.youtube.com/@jeoresearch
+
+The output of this tool should roughly look like the following video: https://youtu.be/9bWzUjcxZWg
+
 ## Requirements
 
 Make sure you have the following dependencies installed before running the code:
