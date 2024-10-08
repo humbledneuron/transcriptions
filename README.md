@@ -57,7 +57,4 @@ Run the Script: After setting up the directories, run the script with:
 python script_name.py
 ```
 
-Additional Notes:
-Subtitles are limited to three lines and centered on the screen.
-Ensure proper setup for Japanese fonts if using Japanese translations.
-The script uses face detection to track positions and display subtitles appropriately.
+
